@@ -1,6 +1,8 @@
-To build/run the app:
+To build/run the dev app:
 * npm install
-* npm run build
+# start webpack watch build
+* npm run build-dev
+# start node server
 * npm start
 * browse 0.0.0.0:8080
 

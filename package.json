@@ -5,6 +5,7 @@
   "main": "app/server.js",
   "scripts": {
     "build": "webpack --config webpack.config.js",
+    "build-dev": "webpack --config webpack.config.js --watch",
     "start": "node app/server.js"
   },
   "dependencies": {
